@@ -1,0 +1,2 @@
+sudom su
+sudo su
